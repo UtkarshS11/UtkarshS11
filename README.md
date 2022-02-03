@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UtkarshS11
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning full stack web devlopment
+Hello all my name is Utkarsh 
+I am a programmer 
+And I am currently devloping my very own javascript UI framework
 
 
 <!---
